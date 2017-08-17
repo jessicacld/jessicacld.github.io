@@ -1,27 +1,52 @@
 body {
-  background-color: CornflowerBlue;
+  background-color: lightblue;
 }
 .picture {
-  width: 10%;
-  height: 10%;
+  width: 30%;
+  height: 30%;
+}
+p{
+  font-weight: 40%;
 }
 p{
   font-size: 40%;
 }
 p{
-  font-size: 50%;
+  font-size: 65%;
 
   }
 li{
   font-size: 80%;
 }
-ol{
-  font-size: 60%;
+.picture{
+  width: 30%;
+  height: 30%;
+  float: left;
 }
-ol{
+ul{
+  font-size: 90%;
+  list-style: none;
+}
+#content img {
+  float: left;
+}
+h1 {
+	font-family: colibri;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26px;
+}
+.picture{
+width: 50%;
+height: 50%;
+float: inherit;
+}
+ul{
 
 }
 .square{
-  width: 50%;
-  float: left;
+  width: 35%;
+  float: middle;
   }
